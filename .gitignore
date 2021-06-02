@@ -335,3 +335,5 @@ libs/scripts/
 
 # MY IGNORES
 RoR2Mods.sln
+libs/README.MD
+libs/setup.bat
